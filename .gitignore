@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+pycache/
+*.py[cod]
+*$py.class
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Ruff cache
+.ruff_cache/
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Environment variables / secrets
+.env
+.env.*
